@@ -1,0 +1,45 @@
+.bg_container{
+ background-image:url('https://img.freepik.com/free-vector/india-skyline-with-panorama-sky-background-vector-illustration-business-travel-tourism-concept-with-modern-buildings-collage-from-largest-cities-india_596401-484.jpg');
+background-size:cover;
+height:100vh;
+padding:1px;
+}
+.card{
+text-align:center;
+font-size:15px;
+font-family:Georgia, 'Times New Roman', Times, serif;
+font-weight:bold;
+padding:5px;
+background-color:antiquewhite;
+border-top-right-radius:20px;
+border-top-left-radius:20px;
+}
+.heading{
+    color:blue;
+    font-weight:bold;
+}
+.para{
+    color:black;
+}
+.button{
+    color:red;
+    font-size:15px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    height:30px;
+    padding:2px;
+    font-weight:bold;
+    width:100px;
+    margin:2px;
+    background-color:aqua;
+    border-radius:20px;
+    border-color:burlywood;
+    border-width:0px;
+    cursor:pointer;
+    text-align:center;
+    
+}
+
+ 
+
+
+
